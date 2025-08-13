@@ -1,5 +1,9 @@
 {
-  "js": {
-    "glass_ui.bundle": ["frontend/index.js"]
-  }
+  "css/glassmorphism.css": [
+    "public/scss/glassmorphism.scss"
+  ],
+  "js/glass_ui.bundle.js": [
+    "public/js/glass_ui.js"
+  ]
 }
+
