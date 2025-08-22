@@ -897,3 +897,26 @@ header .form-control:focus{
 
 /* ==================== END OF MAIN SECTION STYLING ==================== */
 
+
+
+/* Target Expense Claim widget specifically */
+.layout-main-section [data-widget-name="Expense Claim"] {
+    background: linear-gradient(135deg, #009fff, #3f2b96) !important;
+    border: none !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25) !important;
+    color: white !important;
+}
+
+/* Style the links inside Expense Claim */
+.layout-main-section [data-widget-name="Expense Claim"] a {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.layout-main-section [data-widget-name="Expense Claim"] a:hover {
+    color: #fff !important;
+    background: rgba(255, 255, 255, 0.15) !important;
+    border-radius: 6px;
+    padding: 6px 10px;
+}
+
+
