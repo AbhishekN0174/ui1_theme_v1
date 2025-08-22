@@ -1,3 +1,9 @@
+/* Test: turn the Expense Claim widget RED */
+.widget.links-widget-box[data-widget-name="Expense Claim"] {
+    background: red !important;
+}
+
+
 /* ==================== BROWSER SCROLLBAR CUSTOMIZATION ==================== */
 /* Custom scrollbar styling for Chrome, Edge, and Safari browsers */
 
