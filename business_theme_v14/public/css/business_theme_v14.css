@@ -1,3 +1,10 @@
+/* Force Business Theme overrides */
+body {
+    background: var(--your-theme-bg) !important;
+}
+.navbar {
+    background-color: var(--your-theme-navbar) !important;
+}
 
 /* ==================== BROWSER SCROLLBAR CUSTOMIZATION ==================== */
 /* Custom scrollbar styling for Chrome, Edge, and Safari browsers */
