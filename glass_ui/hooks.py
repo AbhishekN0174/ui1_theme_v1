@@ -11,11 +11,8 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
-# include js, css files in header of desk.html
-# app_include_css = ["/assets/glass_ui/css/glassmorphism.css"]
-# app_include_js = ["/assets/glass_ui/js/glass_ui.bundle.js"]
-# web_include_css = ["/assets/glass_ui/css/glassmorphism.css"]
-# web_include_js = ["/assets/glass_ui/js/glass_ui.bundle.js"]
+app_include_css = []
+app_include_js = []
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "glass_ui/public/scss/website"
