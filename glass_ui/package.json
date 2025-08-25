@@ -1,9 +1,0 @@
-{
-  "name": "glass_ui",
-  "version": "1.0.0",
-  "description": "Glass UI Theme",
-  "main": "index.js",
-  "scripts": {
-    "build": "echo 'No build required'"
-  }
-}
